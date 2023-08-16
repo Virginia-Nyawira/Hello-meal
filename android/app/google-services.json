@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "230651499148",
+    "project_id": "hellofa-d76cc",
+    "storage_bucket": "hellofa-d76cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230651499148:android:e9808ba4ff373c895e21a9",
+        "android_client_info": {
+          "package_name": "com.example.hello_meal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230651499148-3km8akflc6963mrqaosm4vollqpll5d1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOuEIQTbyUEL7mlzJNy4GSgp0qu7dzgDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230651499148-3km8akflc6963mrqaosm4vollqpll5d1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "230651499148-rkorhtgf1nsubm6rm92f83dgb3r13p2t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.helloMeal"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
