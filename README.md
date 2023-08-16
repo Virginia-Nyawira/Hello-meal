@@ -1,6 +1,6 @@
 # hello_meal
 
-A  Flutter project, an eccomerce food app UI to oder meals online
+A  Flutter project, an eccomerce food app to oder meals and have them delivered to your address (Work in progress)
 
 ## Getting Started
 
